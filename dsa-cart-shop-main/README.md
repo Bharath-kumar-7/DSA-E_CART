@@ -9,14 +9,28 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
+## Why DSA is Essential in E-Commerce:
 
-Simply open [Lovable](https://lovable.dev/projects/fdbe46d7-47ce-475b-8a0c-43be19a015f1) and click on Share -> Publish.
+🔹 Faster loading & search → better user experience
 
-## Can I connect a custom domain to my Lovable project?
+🔹 Handles large data → millions of products & users
 
-Yes, you can!
+🔹 Supports smart recommendations → boosts sales
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+🔹 Optimizes backend operations → saves time & cost
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+```bash
++---------------------------+---------------------------------------------+---------------------------------------------+
+| Feature                   | Data Structures Used                       | Algorithms Used                             |
++---------------------------+---------------------------------------------+---------------------------------------------+
+| Search                    | Trie, Hash Table, Inverted Index           | KMP, Rabin–Karp, Binary Search              |
+| Sorting & Filtering       | Arrays, Heap, HashMap                      | Quick Sort, Merge Sort, Heap Sort           |
+| Recommendation            | Graph, HashMap, Heap                       | BFS, Similarity, Top-K                      |
+| Cart & Inventory          | HashMap, Linked List, Queue                | Transaction & Concurrency Algorithms        |
+| Delivery Optimization     | Graph, Priority Queue                      | Dijkstra, A*                                |
+| Authentication & Logs     | HashMap, Trees, Bloom Filters              | Hashing, Tree Traversals                    |
+| Caching & Performance     | LRU (Linked List + Hash), Queue            | LRU, Scheduling Algorithms                  |
++---------------------------+---------------------------------------------+---------------------------------------------+
+```
+
+```

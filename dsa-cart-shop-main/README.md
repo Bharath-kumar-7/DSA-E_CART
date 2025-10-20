@@ -32,5 +32,3 @@ This project is built with:
 | Caching & Performance     | LRU (Linked List + Hash), Queue            | LRU, Scheduling Algorithms                  |
 +---------------------------+---------------------------------------------+---------------------------------------------+
 ```
-
-```
